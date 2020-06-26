@@ -19,7 +19,7 @@ public class Demo1 {
 		 
 		 Runtime.getRuntime().exec("C:\\Users\\Hp\\Desktop\\Autoit\\document.exe");
 		
-		System.
+		
 
 	}
 
