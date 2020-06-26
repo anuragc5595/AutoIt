@@ -18,6 +18,8 @@ public class Demo1 {
 		 driver.findElement(By.xpath("//label[@class='choose-label']")).click();
 		 
 		 Runtime.getRuntime().exec("C:\\Users\\Hp\\Desktop\\Autoit\\document.exe");
+		
+		System.
 
 	}
 
